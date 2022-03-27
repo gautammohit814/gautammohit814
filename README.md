@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Currently working Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautammohit814&label=Profile%20views&color=0e75b6&style=flat" alt="gautammohit814" /></p>
+<p align="right"> <img src="https://content.techgig.com/photo/84018246/5-pro-tips-that-can-make-a-coders-life-even-more-productive-and-fun.jpg?69968" /></p>
 
 - 🔭 I’m currently working on **Face Detection**
 
