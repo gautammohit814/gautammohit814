@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Currently working Data Science</h3>
-<img>
-https://content.techgig.com/photo/84018246/5-pro-tips-that-can-make-a-coders-life-even-more-productive-and-fun.jpg?69968
-</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautammohit814&label=Profile%20views&color=0e75b6&style=flat" alt="gautammohit814" /> </p>
 
@@ -10,12 +7,16 @@ https://content.techgig.com/photo/84018246/5-pro-tips-that-can-make-a-coders-lif
 
 - 🌱 I’m currently learning **Numpy, Pandas**
 
+- 💬 Ask me about **Python, Numpy, Pandas**
+
 - 📫 How to reach me **gautammohit814@gmail.com**
 
 - ⚡ Fun factIf debugging is the process of removing software bugs, then programming must be t **Debugging Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/gautammohit814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautammohit814" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautammohit814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautammohit814" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
