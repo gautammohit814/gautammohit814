@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">Currently working Data Science</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 - 🔭 I’m currently working on **Face Detection**
 
