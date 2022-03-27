@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Currently working Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautammohit814&label=Profile%20views&color=0e75b6&style=flat" alt="gautammohit814" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautammohit814&label=Profile%20views&color=0e75b6&style=flat" alt="gautammohit814" /></p>
 
 - 🔭 I’m currently working on **Face Detection**
 
 
 - 📫 How to reach me **gautammohit814@gmail.com**
 
-- ⚡ Fun factIf debugging is the process of removing software bugs, then programming must be t **Debugging Code**
+- ⚡ Fun fact **Debugging Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
