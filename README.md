@@ -5,9 +5,6 @@
 
 - 🔭 I’m currently working on **Face Detection**
 
-- 🌱 I’m currently learning **Numpy, Pandas**
-
-- 💬 Ask me about **Python, Numpy, Pandas**
 
 - 📫 How to reach me **gautammohit814@gmail.com**
 
